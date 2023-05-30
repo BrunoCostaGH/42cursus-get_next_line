@@ -3,7 +3,8 @@
   ## Description
 May it be a file, stdin, or even later a network connection, you will always need a way to read content line by line. It is time to start working on this function, which will be essential for your future projects.
 
-![contributors](https://flat.badgen.net/github/contributors/BrunoCostaGH/42cursus-get_next_line)
-![issues](https://flat.badgen.net/github/issues/BrunoCostaGH/42cursus-get_next_line)
-![commits](https://flat.badgen.net/github/commits/BrunoCostaGH/42cursus-get_next_line/master)
-![license](https://flat.badgen.net/github/license/BrunoCostaGH/42cursus-get_next_line)
+![GitHub](https://img.shields.io/github/license/BrunoCostaGH/42cursus-get_next_line?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/BrunoCostaGH/42cursus-get_next_line?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/BrunoCostaGH/42cursus-get_next_line?style=for-the-badge)
+![GitHub Release Date](https://img.shields.io/github/release-date/BrunoCostaGH/42cursus-get_next_line?style=for-the-badge)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/BrunoCostaGH/42cursus-get_next_line?style=for-the-badge)
