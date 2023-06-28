@@ -1,4 +1,4 @@
-  # 42cursus-get_next_line ([Subject](https://github.com/BrunoCostaGH/42cursus-get_next_line/blob/master/.github/en.subject.pdf))
+  # 42cursus-get_next_line ([Subject](/.github/en.subject.pdf))
   
   ## Description
 May it be a file, stdin, or even later a network connection, you will always need a way to read content line by line. It is time to start working on this function, which will be essential for your future projects.
